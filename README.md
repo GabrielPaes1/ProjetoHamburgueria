@@ -1,19 +1,17 @@
-# 3_make_your_burguer
-
-## Project setup
+# Projeto Hamburgueria
 ```
-npm install
+Feito através do curso do Matheus Battisti.
 ```
 
-### Compiles and hot-reloads for development
+## Conteúdo do Projeto:
 ```
+O Projeto possui alguns componentes, a utilização de API, inserção de dados no banco, etc.
+```
+
+### Comandos necessários:
+```
+Pra rodar é só usar o:
 npm run serve
-```
 
-### Compiles and minifies for production
+npm run backend
 ```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
